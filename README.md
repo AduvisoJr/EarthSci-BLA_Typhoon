@@ -2,7 +2,9 @@
 
 This project presents a set of weather data collected over seven days. The data includes measurements of temperature, air pressure, humidity, wind speed, and wind direction, with each day containing high and low values. The last three days experienced the passing of a typhoon, and this README file explains four graphs visualizing the data.
 
-## Graph 1: Air Pressure and Wind Speed (`graph1.png`)
+## Graph 1: Air Pressure and Wind Speed 
+
+![Graph1](Graph1.png)
 
 ### Description:
 This graph plots **Air Pressure** and **Wind Speed** over the course of seven days. Air pressure is represented on the left y-axis in millibars (mb), while wind speed is shown on the right y-axis in kilometers per hour (kph).
@@ -15,6 +17,8 @@ This graph plots **Air Pressure** and **Wind Speed** over the course of seven da
 
 ## Graph 2: Temperature and Humidity (`graph2.png`)
 
+![Graph2](Graph2.png)
+
 ### Description:
 This graph shows the relationship between **Temperature** (°C) and **Humidity** (%) over seven days. Temperature is displayed on the left y-axis, and humidity is plotted on the right y-axis.
 
@@ -26,6 +30,8 @@ This graph shows the relationship between **Temperature** (°C) and **Humidity**
 
 ## Graph 3: Air Pressure and Temperature (`graph3.png`)
 
+![Graph3](Graph3.png)
+
 ### Description:
 This graph visualizes **Air Pressure** (mb) and **Temperature** (°C). Air pressure is plotted on the left y-axis, and temperature is displayed on the right y-axis.
 
@@ -35,6 +41,8 @@ This graph visualizes **Air Pressure** (mb) and **Temperature** (°C). Air press
 ---
 
 ## Graph 4: Temperature, Air Pressure, Humidity, and Wind Speed (`graph4.png`)
+
+![Graph4](Graph4.png)
 
 ### Description:
 This composite graph shows the combined relationship between **Temperature** (°C), **Air Pressure** (mb), **Humidity** (%), and **Wind Speed** (kph). Temperature and air pressure are displayed on the left y-axis, while humidity and wind speed are shown on the right y-axis.
