@@ -1,5 +1,7 @@
 # Weather Data Analysis
 
+This is a documentation of the graphing for a BLA in EarthSci.
+
 This project presents a set of weather data collected over seven days. The data includes measurements of temperature, air pressure, humidity, wind speed, and wind direction, with each day containing high and low values. The last three days experienced the passing of a typhoon, and this README file explains four graphs visualizing the data.
 
 ## Graph 1: Air Pressure and Wind Speed 
