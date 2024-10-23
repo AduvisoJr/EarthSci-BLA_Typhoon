@@ -15,7 +15,7 @@ This graph plots **Air Pressure** and **Wind Speed** over the course of seven da
 
 ---
 
-## Graph 2: Temperature and Humidity (`graph2.png`)
+## Graph 2: Temperature and Humidity
 
 ![Graph2](Graph2.png)
 
@@ -28,7 +28,7 @@ This graph shows the relationship between **Temperature** (°C) and **Humidity**
 
 ---
 
-## Graph 3: Air Pressure and Temperature (`graph3.png`)
+## Graph 3: Air Pressure and Temperature
 
 ![Graph3](Graph3.png)
 
@@ -40,7 +40,7 @@ This graph visualizes **Air Pressure** (mb) and **Temperature** (°C). Air press
 
 ---
 
-## Graph 4: Temperature, Air Pressure, Humidity, and Wind Speed (`graph4.png`)
+## Graph 4: Temperature, Air Pressure, Humidity, and Wind Speed
 
 ![Graph4](Graph4.png)
 
