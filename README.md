@@ -59,6 +59,8 @@ To create the graphs for this analysis, Python was utilized, specifically using 
 
 This process can be repeated for the remaining graphs by adjusting the y-axes and the data being plotted.
 
+---
+
 ## Graph 1: Air Pressure and Wind Speed 
 
 ![Graph1](Graph1.png)
